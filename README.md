@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ncxpijy4e9mkdk45/branch/master?svg=true)](https://ci.appveyor.com/project/RebikHub/ra-hoc-highlight/branch/master)
 
 [Подсвечивание блоков](https://rebikhub.github.io/ra-hoc-highlight/)
 
